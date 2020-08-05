@@ -1,0 +1,6 @@
+.env
+shop.code-workspace
+.idea
+composer.lock
+*.log
+thinkphp
